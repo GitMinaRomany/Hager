@@ -1,0 +1,44 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body{
+    background: rgb(147, 167, 172);
+}
+.login-header
+{   background: rgb(5, 121, 150);
+    color: bisque;
+    text-align: center;
+    padding: 16px;
+    font-weight: normal;
+
+}
+#A1{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 100px;
+    border: 1px solid white ;
+    background: rgb(58, 217, 238);
+}
+input[type=text]{
+    padding: 5px;
+    border-radius: 4px
+}
+input[type=email]{
+    padding: 5px;
+    border-radius: 4px
+
+}
+input[type=password]{
+    padding: 5px;
+    border-radius: 4px
+}
+.Bt{
+     background: rgb(5, 121, 150);
+     font-size: .90em;
+     cursor: pointer;
+     margin-left: 300px;
+     margin-right: auto;
+
+}
